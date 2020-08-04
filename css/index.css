@@ -1749,6 +1749,9 @@ kbd {
 .post-meta-item--wordcount {
   color: var(--color-gray-700);
 }
+.post-meta-item--readtime {
+  color: #49b1f5;
+}
 .post-meta-item--visitors {
   color: #fc6423;
 }
@@ -2716,12 +2719,12 @@ kbd {
   content: '|';
   margin: 0 10px;
 }
-@media (min-width: 1138px) {
+@media (min-width: 1170px) {
   .header-nav-inner {
-    width: 1138px;
+    width: 1170px;
   }
   .main-inner {
-    width: 1138px;
+    width: 1170px;
   }
 }
 @media (min-width: 991.98px) {
